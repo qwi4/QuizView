@@ -1,0 +1,14 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 30,
+    "remainingBoosts": 0,
+    "unlockedLevel": 10,
+    "IsMuted": true
+}
